@@ -1,5 +1,5 @@
 ## Tic Tac React:
-A fully realized version of Tic Tac Toe based on the offical React setup Track. 
+A fully realized version of Tic Tac Toe based on the offical React training track. 
 
 - Intended for 2 players
 - Rewind to previous moves using the moves list
