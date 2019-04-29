@@ -111,7 +111,7 @@ import './index.css';
         let moves = history.map((value, index) => {
             const desc = index ?
                 'Go to move #' + index + ' at (' + value.moveTaken + ')' :
-                'Go to game start';
+                'Game start';
 
             index === this.state.stepNumber ? btn_class = 'currentStep' : btn_class = '';
             return (
